@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.asm": "asm",
+        "*.inc": "asm",
+        "*.INC": "asm",
+        "*.ASM": "asm"
+    },
+    "editor.tabSize": 8,
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": false,
+    "files.trimTrailingWhitespace": true,
+    "editor.wordWrap": "off",
+
+    // Syntax highlighting colors
+    "[asm]": {
+        "editor.defaultFormatter": null,
+        "editor.tabSize": 8,
+        "editor.insertSpaces": false
+    }
+}
